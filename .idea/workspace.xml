@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef05977d-7b13-45f4-a7d5-8197967735aa" name="Default" comment="" />
+    <list default="true" id="ef05977d-7b13-45f4-a7d5-8197967735aa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+    </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="268" selection-end="268" vertical-scroll-proportion="0.43367347">
+            <state line="15" column="26" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="256" column="0" selection-start="9126" selection-end="9126" vertical-scroll-proportion="0.0">
+            <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.14455782">
               <folding />
             </state>
           </provider>
@@ -70,9 +72,9 @@
         <option value="$PROJECT_DIR$/autotest/autotest" />
         <option value="$PROJECT_DIR$/spec/pages_controller_spec.rb" />
         <option value="$PROJECT_DIR$/.autotest" />
-        <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -443,11 +445,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="256" column="0" selection-start="9126" selection-end="9126" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
@@ -457,7 +454,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="268" selection-end="268" vertical-scroll-proportion="0.43367347">
+        <state line="15" column="26" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.14455782">
           <folding />
         </state>
       </provider>
